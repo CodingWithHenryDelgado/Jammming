@@ -1,6 +1,6 @@
 const clientId = 'c20d1ff841e742c49afbf157c3ae2bc4'
 //I don't want to leave this here but I need it for the deploy site!
-const redirectURI = 'http://localhost:3000/callback/';
+const redirectURI = 'https://naughty-ritchie-344fba.netlify.app/callback/';
 let userAccessToken;
 
 const Spotify = {
